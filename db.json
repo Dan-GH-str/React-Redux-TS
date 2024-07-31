@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Крем десерт",
+      "url": "https://static.1000.menu/img/content-v2/14/54/41685/krem-desert_1576683878_prev_hor.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Яблоки в карамели на десерт",
+      "url": "https://static.1000.menu/img/content-v2/a9/97/40253/yabloki-v-karameli-v-domashnix-usloviyax_1615965583_prev_hor.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Шоколадный мусс на десерт",
+      "url": "https://static.1000.menu/img/content-v2/88/e8/43878/shokoladnyi-muss-na-desert_1614767011_prev_hor.jpg"
+    },
+    {
+      "id": "317b",
+      "title": "Name",
+      "url": "https://i.pinimg.com/originals/0e/ed/c9/0eedc9e9a5104635d84d3b06b3e162b5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.headerMain {
+    width: 35%;
+    display: flex;
+    justify-content: end;
+}
+
+.headerMain-favorite {
+    position: relative;
+    width: 2rem;
+}
+
+.headerMain-favorite__count {
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    box-sizing: border-box;
+    font-size: 0.95rem;
+    background-color: rgb(93, 197, 245);
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 50%;
+    top: 55%;
+}

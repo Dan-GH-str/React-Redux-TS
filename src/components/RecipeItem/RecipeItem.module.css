@@ -1,0 +1,20 @@
+.recipe-item {
+    width: 30%;
+    box-sizing: border-box;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: rgb(39, 39, 39);
+    border-radius: 8px;
+}
+
+.recipe-item__title {
+    margin: 0;
+}
+
+.recipe-item__img {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 1rem;
+    border-radius: 4px;
+    object-fit: cover;
+}
